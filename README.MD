@@ -25,7 +25,7 @@ I have some experience related with C++ and Python.
 
 On one hand, for programming and coding I develop using Visual Studio Code and my projects are made while using Git and hosted in Github. I also have experience with ROS (1) and Matlab. On the other hand, I also know about 3D design, mainly with SolidWorks.
 
-<img align = "left" alt= "SolidWorks" height="50px" src= "https://assets.stickpng.com/images/6011d13a2a08e9000490aba1.png"/>
+<img align = "left" alt= "SolidWorks" height="50px" src= "https://dmd.com.mx/wp-content/uploads/2020/12/Recurso-126.png"/>
 <img align = "left" alt= "ROS" height="37px" src= "https://i.pinimg.com/originals/97/57/5a/97575a1d15d506b19ef979f4166f3235.png"/>
 <img align = "left" alt= "Matlab" height="40px" src= "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110"/>
 <img align="left" alt="Git" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" />
