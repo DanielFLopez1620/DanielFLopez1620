@@ -1,39 +1,56 @@
 #  Hi! My name is Daniel Felipe López.
-I am 19 years old and I am studying Mecathronic Enginieering at the "Pontificia Universidad Javeriana" since January 2021. I like to learn about Technology, mainly about Robotics.
+I am 20 years old student from Colombia who is studying Mecathronic Enginieering at the "Pontificia Universidad Javeriana" since January 2021. I am interested in the field of robotics and design, in my Github you can find projects related to ROS/ROS2, Arduino, C, C++ and Python mostly.
 
 :robot: :computer:
-<br/>
 
-## About me...
-* Member of RAS IEEE Javeriana  since February 2021
-* President of RAS IEEE Javeriana since July 2022
+Also, I have been the president/chair of the student chapter **IEEE RAS Javeriana Bogotá** since July 2022, but I have been member of the group since I started my career.
 
 :books: :pencil:
 
-## Programming languages...
 
-I have some experience related with C++ and Python.
 
-<img align = "left" alt= "C++" height="50px" src= "https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"/>
-<img align = "left" alt= "Python" height="52px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+## Skills
 
+<img src="https://github-readme-stats.vercel.app/api?username=DanielFLopez1620&theme=dracula&show_icons=true" align="right"/>
+
+### **Programming languages:**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+### **CAD Programs:**
+
+<img align = "left" alt= "SolidWorks" height="50px" src= "https://dmd.com.mx/wp-content/uploads/2020/12/Recurso-126.png"/></div><img align = "left" alt= "FreeCad" height="50px" src= "https://upload.wikimedia.org/wikipedia/commons/f/f7/FreeCAD-logo.svg"/>
 <br/>
 <br/>
-<br/>
 
-## Tools, environments and emphasis...
+### **Robotics and related:**
 
-On one hand, for programming and coding I develop using Visual Studio Code and my projects are made while using Git and hosted in Github. I also have experience with ROS (1) and Matlab. On the other hand, I also know about 3D design, mainly with SolidWorks.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielFLopez1620&layout=compact" align="right"/>
 
-<img align = "left" alt= "SolidWorks" height="50px" src= "https://dmd.com.mx/wp-content/uploads/2020/12/Recurso-126.png"/>
 <img align = "left" alt= "ROS" height="37px" src= "https://i.pinimg.com/originals/97/57/5a/97575a1d15d506b19ef979f4166f3235.png"/>
-<img align = "left" alt= "Matlab" height="40px" src= "https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png?20170128174110"/>
-<img align="left" alt="Git" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png?20160811101906" />
-<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align = "left" alt= "ROS2" height="37px" src= "https://docs.olive-robotics.com/assets/ros2.f4e27747.png"/>
+<img align = "left" alt= "Arduino" height="37px" src= "https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"/>
 
 <br/>
 <br/>
-<br/>
 
-### Do not forget to watch my projects on Github!
+
+### **Tools:**
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23F05033.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+## More about me....
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### **Do not forget to watch my projects on Github!**
+
+
+
