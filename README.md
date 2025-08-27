@@ -57,7 +57,7 @@ I'm a student from Bogotá, Colombia, currently pursuing a degree in **Mechatron
 [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE.svg?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/danielflopez1620)
 [![Gravatar](https://img.shields.io/badge/Platzi-98CA3F.svg?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/dfelipe.lopez/)
 
-## Recent activity!
+## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
