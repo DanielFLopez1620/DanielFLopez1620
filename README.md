@@ -60,14 +60,14 @@ I'm a student from Bogotá, Colombia, currently pursuing a degree in **Mechatron
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
+1. 🤝 Became collaborator on [gdiaz-guevara/ros_comunications](https://github.com/gdiaz-guevara/ros_comunications)<br>
 2. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
-3. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/DanielFLopez1620](https://github.com/DanielFLopez1620/DanielFLopez1620)<br>
+3. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
 4. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/DanielFLopez1620](https://github.com/DanielFLopez1620/DanielFLopez1620)<br>
 5. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/DanielFLopez1620](https://github.com/DanielFLopez1620/DanielFLopez1620)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 2:08:56 AM
+Last Updated: Monday, September 8th, 2025, 1:55:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### **Do not forget to watch my projects on Github!**
