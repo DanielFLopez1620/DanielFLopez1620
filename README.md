@@ -1,13 +1,14 @@
 
 # 👋 Hello World! I'm Daniel Felipe López Escobar  
 
-I'm a student from Bogotá, Colombia, currently pursuing a degree in **Mechatronics Engineering** at **Pontificia Universidad Javeriana** since January 2021. My main focus is **robotics**, **CAD**, and the development of **open-source software and hardware**.  
+I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main focus is **robotics**, **ROS 2**, **CAD**, **design**, and the development of **open-source software and hardware**.  
 
 ## 🚀 Interests
 
 - 🤖 Development of **mobile robots** using **ROS 2**.  
 - 🔧 Design of hardware for robotic applications.  
-- 🌎 Passionate about the **open-source ecosystem** and collaborative learning.  
+- 💻 Passionate about the **open-source ecosystem** and collaborative learning.
+- 🌎 Promoting robotics in Bogotá, Colombia.
 
 ## Skills
 
@@ -21,6 +22,7 @@ I'm a student from Bogotá, Colombia, currently pursuing a degree in **Mechatron
 
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-cb333b?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![FreeCad](https://img.shields.io/badge/FreeCad-cb333b?style=for-the-badge&logo=freecad&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-ea7600?style=for-the-badge&logo=blender&logoColor=white)
 
 
 ### **Robotics and related:**
@@ -48,6 +50,8 @@ I'm a student from Bogotá, Colombia, currently pursuing a degree in **Mechatron
 - **Member of IEEE RAS Javeriana Student Chapter (Febrary 2021 - Present):** Promoting robotics in students and developing projects with ROS 2.
 
 - **ROSCon 2023 Diversity Scholar:** It was an amazing experience to connect with the global community of ROS / ROS 2 developers, where I had the chances to present a lighting talk about the efforts on building a ROS Community in Bogotá.
+
+- **Incoming events in Colombia:** I am participating in the organization of future robotics events in Colombia, stay tunned for the [ROS MeetUp Bogotá 2025](https://luma.com/h5zsexaf) and let's connect and grow in community.
 
 ## More about me....
 
