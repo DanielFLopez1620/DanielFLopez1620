@@ -64,14 +64,14 @@ I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [gdiaz-guevara/ros_comunications](https://github.com/gdiaz-guevara/ros_comunications)<br>
+1. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
 2. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
-3. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
-4. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/DanielFLopez1620](https://github.com/DanielFLopez1620/DanielFLopez1620)<br>
-5. ⬆️ Pushed 1 commit(s) to [DanielFLopez1620/DanielFLopez1620](https://github.com/DanielFLopez1620/DanielFLopez1620)<br>
+3. ⬆️ Pushed 82 commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
+4. 🎉 Merged PR [#5](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples/pull/5) in [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
+5. 💪 Opened PR [#5](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples/pull/5) in [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 15th, 2025, 1:57:06 AM
+Last Updated: Monday, September 22nd, 2025, 1:58:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### **Do not forget to watch my projects on Github!**
