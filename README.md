@@ -47,11 +47,13 @@ I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main
 
 - **President of the IEEE RAS Javeriana Student Chapter (July 2022 - January 2025):** My focus was to strengthen a student community of robotics learners and developers , focused on ROS / ROS 2, C++ and Python. Some of the projects developed by the community members include [Flatboat](https://github.com/JuanCSUCoder/FlatBoatProject), [Swarm Project](https://github.com/Nidhood/SWARM_PROJECT), [microROS-on-the-cloud](https://github.com/miguelgonrod/microROS-on-the-cloud), [DiffDan](https://github.com/DanielFLopez1620/diff_robot_dan_ros), [urfi_project](https://github.com/alexoberco/urfi_project) and [ORION](https://github.com/Tesis-ORION). One of our biggest achievements was to promote the [First ROS MeetUp](https://www.youtube.com/watch?v=R7_KEe0JQ5I) in Bogotá, Colombia.
 
-- **Member of IEEE RAS Javeriana Student Chapter (Febrary 2021 - Present):** Promoting robotics in students and developing projects with ROS 2.
+- **Member of IEEE RAS Javeriana Student Chapter (Febrary 2021 - Juny 2025):** Promoting robotics in students and developing projects with ROS / ROS 2.
 
 - **ROSCon 2023 Diversity Scholar:** It was an amazing experience to connect with the global community of ROS / ROS 2 developers, where I had the chances to present a lighting talk about the efforts on building a ROS Community in Bogotá.
 
 - **Incoming events in Colombia:** I am participating in the organization of future robotics events in Colombia, stay tunned for the [ROS MeetUp Bogotá 2025](https://luma.com/h5zsexaf) and let's connect and grow in community.
+
+- **Searching for new opportunitties:** As I finished my studies, I am searching for new opportunities in the area of software developing for robots, ROS 2 and mechanical design.
 
 ## More about me....
 
