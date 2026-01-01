@@ -68,12 +68,9 @@ I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [DanielFLopez1620/Python_TopicsAndExamples](https://github.com/DanielFLopez1620/Python_TopicsAndExamples)<br>
 2. ⬆️ Pushed undefined commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
-3. 💪 Opened PR [#1](undefined) in [Tesis-ORION/orion_gz](https://github.com/Tesis-ORION/orion_gz)<br>
-4. 💪 Opened PR [#1](undefined) in [Tesis-ORION/orion_tools](https://github.com/Tesis-ORION/orion_tools)<br>
-5. ⬆️ Pushed undefined commit(s) to [Tesis-ORION/orion_gz](https://github.com/Tesis-ORION/orion_gz)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 29th, 2025, 2:22:26 AM
+Last Updated: Thursday, January 1st, 2026, 2:25:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### **Do not forget to watch my projects on Github!**
