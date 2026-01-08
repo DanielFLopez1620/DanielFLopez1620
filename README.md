@@ -66,11 +66,9 @@ I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [DanielFLopez1620/Python_TopicsAndExamples](https://github.com/DanielFLopez1620/Python_TopicsAndExamples)<br>
-2. ⬆️ Pushed undefined commit(s) to [DanielFLopez1620/CPP_TopicsAndExamples](https://github.com/DanielFLopez1620/CPP_TopicsAndExamples)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 2:25:28 AM
+Last Updated: Thursday, January 8th, 2026, 2:09:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### **Do not forget to watch my projects on Github!**
