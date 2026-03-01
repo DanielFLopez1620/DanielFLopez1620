@@ -66,9 +66,10 @@ I'm a Mechatronics Engineer from Bogotá, Colombia since September 2025. My main
 ## Recent activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 📖 Created new wiki page [Home](https://github.com/DFD-Workshop/vambrace_adventure/wiki/Home) in [DFD-Workshop/vambrace_adventure](https://github.com/DFD-Workshop/vambrace_adventure)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 22nd, 2026, 2:46:03 AM
+Last Updated: Sunday, March 1st, 2026, 2:53:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 #### **Do not forget to watch my projects on Github!**
