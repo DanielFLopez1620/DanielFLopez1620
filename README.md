@@ -1,23 +1,31 @@
 
 # Hi, I'm Daniel Felipe López Escobar 👋
 
-Mechatronics Engineer from Bogotá, Colombia. I design, build, and program **open-source mobile robots**  end-to-end with **ROS 2** — from CAD and embedded firmware to  simulation and HRI  interfaces. I also care deeply about building the robotics community in Latin America.
+Mechatronics Engineer from Bogotá, Colombia. I design, build, and program **open-source mobile robots**  end-to-end with **ROS 2**, from CAD and embedded firmware to simulation and HRI  interfaces. I also care deeply about building the robotics community in Latin America.
 
-Lighting talk speaker at **ROSCon 2023** (New Orleans, Diversity Scholar) and **ROSCon 2024** (Odense).  
-Former President of **IEEE RAS Javeriana** (5 semesters, 2022–2025).
+- Currently working @ LG CNS Colombia as a Developer Engineer.
+- Lighting talk speaker at **ROSCon 2023** (New Orleans, Diversity Scholar), **ROSCon 2024** (Odense) & **ROSCon 2026** (Toronto).  
+- Former President of **IEEE RAS Javeriana** (5 semesters, 2022–2025).
 
 ---
 
 ## 🤖 Featured Projects
 
 ### [DiffDan](https://github.com/DanielFLopez1620/diff_robot_dan_ros)
-Low-cost differential robot (~$300 USD) designed as an open-source academic platform for experimental robotics. Built on **ROS 2 Humble**, RPi 4 + Arduino Uno. Integrates `ros2_control`, URDF/Xacro, 
-Gazebo Classic simulation, and SLAM impelmentation with slam_toolbox. Used as a hands-on teaching platform in 
-community workshops.
+Low-cost differential robot (~$300 USD) designed as an open-source academic platform for experimental robotics. Built on **ROS 2 Humble**, RPi 4 + Arduino Uno. Integrates `ros2_control`, URDF/Xacro, Gazebo Classic simulation, and SLAM impelmentation with slam_toolbox. Used as a hands-on teaching platform in community workshops.
 
-### [ORION](https://github.com/Tesis-ORION/orion_common) — Open-source Robot for Interaction Objectives and Navigation
+![robot_video](https://github.com/DanielFLopez1620/diff_robot_dan_ros/raw/main/resources/diff_robot_dan_showcase.gif)
+
+
+### [ORION Thesis](https://github.com/Tesis-ORION/orion_common) : Open-source Robot for Interaction Objectives and Navigation
 
 Low-cost differential robot (~$850 USD) designed for **HRI research and experimentation**. Built on **ROS 2 Jazzy**, RPi 4/5, with micro-ROS on ESP32 for embedded control. Features a full voice pipeline (STT → LLM → TTS), SLAM with slam_toolbox and cartographer, and simulation in **Gazebo Harmonic**.
+
+### [ORION Fork](https://github.com/DanielFLopez1620/orion_common) : Open-source Robot for Interaction Objectives and Navigation
+
+A continued version of the ORION Thesis focused on improvements of the control system, simulation, bringup and overall structure, with the support of Danna and David from [DFD Workshop](https://github.com/DFD-Workshop).
+
+[![Video de ORION](https://img.youtube.com/vi/loGJsHqacME/maxresdefault.jpg)](https://youtu.be/loGJsHqacME)
 
 ---
 
@@ -59,9 +67,9 @@ Led the chapter for **5 semesters as President** (Jul 2022 - Jan 2025), growing 
 
 Projects developed by community members during this period:
 
-- [Flatboat](https://github.com/JuanCSUCoder/FlatBoatProject) — Ease the deployment of ROS 2 applications with Docker and Kubernetes.
-- [microROS-on-the-cloud](https://github.com/miguelgonrod/microROS-on-the-cloud) — micro-ROS cloud integration.
-- [urfi_project](https://github.com/alexoberco/urfi_project) — Xis-wheel simple rover simulation with ROS 2.
+- [Flatboat](https://github.com/JuanCSUCoder/FlatBoatProject): Ease the deployment of ROS 2 applications with Docker and Kubernetes.
+- [microROS-on-the-cloud](https://github.com/miguelgonrod/microROS-on-the-cloud): micro-ROS cloud integration.
+- [urfi_project](https://github.com/alexoberco/urfi_project): Six-wheeled simple rover simulation with ROS 2.
 
 ### ROS MeetUp Colombia
 
@@ -78,8 +86,9 @@ Stay tuned as we are planning the next events.
 
 ### ROSCon (Robot Operating System Conference)
 
-- **ROSCon 2023** — New Orleans. Diversity Scholar. Lightning talk: building a ROS community in Bogotá.
-- **ROSCon 2024** — Odense. Lightning talk speaker. Lightining talk: Projects developed by a ROS 2 student local community.
+- **ROSCon 2023:** New Orleans. Diversity Scholar. Lightning talk: building a ROS community in Bogotá.
+- **ROSCon 2024:** Odense. Lightning talk speaker. Lightining talk: Projects developed by a ROS 2 student local community.
+- **ROSCon 2026:** Toronto. Lightning talk speaker: Presented about ORION throuhg 3 lessons learned during the process.
 
 ---
 
